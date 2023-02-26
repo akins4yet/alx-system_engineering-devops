@@ -1,3 +1,7 @@
+![3-scale_up](https://user-images.githubusercontent.com/44265105/221430417-e6c61051-c87b-43f8-b8e5-a7d0a6a1bd49.jpg)
+![Secured and monitored web infrastructure](https://user-images.githubusercontent.com/44265105/221430422-1f781f12-0375-4537-bc80-1b08af0af9e9.jpg)
+![Distributed web infrastructure](https://user-images.githubusercontent.com/44265105/221430426-ef0414bb-e465-402d-8c20-c1802d33a6a4.jpg)
+![Simple web stack](https://user-images.githubusercontent.com/44265105/221430427-2a4d1446-a919-43e9-9348-40ac858310e7.jpg)
 0x09. Web infrastructure design
 DevOps
 SysAdmin
