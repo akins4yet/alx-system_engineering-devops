@@ -1,4 +1,4 @@
-# Fix Nginx "accept4() failed (24: Too many open files)" message when simulting user requests
+# Fix Nginx web server to be able to reduce number of failed request to zero
 
 exec {'modify max open files limit setting':
   command => 'sed -i "s/15/10000/" /etc/default/nginx && sudo service nginx restart',
