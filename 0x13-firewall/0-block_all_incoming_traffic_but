@@ -10,7 +10,7 @@ sudo ufw default deny incoming
 # configure
 sudo ufw allow ssh
 sudo ufw allow http
-sudo ufw allow https
+sudo ufw allow 443
 
 # start
 sudo ufw enable
